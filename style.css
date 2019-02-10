@@ -83,6 +83,7 @@ img{
     font-size: 70px;
     color: rgb(36, 224, 224);
     margin-left:25px;
+    margin-top: 40px;
   }
   #commission-content{
     padding: 0 !important;
@@ -211,6 +212,20 @@ img{
      font-size:50px;
      color:#9D00FF
   }
+  #home-arrow{
+    width:100%;
+    text-align: center;
+  }
+
+  hr{
+      margin-top:300px;
+      padding-top:5px;
+      background-color:lime;
+      font-size: 2px;
+      width:70%;
+  }
+
+/*PORTFOLIO CSS*/
  #portfolio-container{
      background-color: black;
      opacity: .7;
